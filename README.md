@@ -1,2 +1,2 @@
 # sistem-managemen
-Sistem Informasi Kepegaaian
+Sistem Informasi Kepegawaian/HRMS based on CodeIgniter
